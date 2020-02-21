@@ -13,5 +13,6 @@
 * cd DiceGAE
 * mvn compile
 * import as existing maven project into eclipse
+** ~molli-p/eclipse/eclipse
 * mvn appengine:deploy
 * gcloud app browse
