@@ -8,7 +8,9 @@
 *    gcloud config set project yourproject
 
 ## Install and Run
+* cp ~molli-p/.m2/settings.xml ~/.m2/
 * git clone https://github.com/momo54/DiceGAE.git
 * cd DiceGAE
+* mvn compile
 * mvn appengine:deploy
 * gcloud app browse
