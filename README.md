@@ -12,5 +12,6 @@
 * git clone https://github.com/momo54/DiceGAE.git
 * cd DiceGAE
 * mvn compile
+* import as existing maven project into eclipse
 * mvn appengine:deploy
 * gcloud app browse
